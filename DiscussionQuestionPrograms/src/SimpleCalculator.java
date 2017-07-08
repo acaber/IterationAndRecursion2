@@ -175,10 +175,3 @@ public class SimpleCalculator extends JFrame implements ActionListener {
 	}
 }
 
-
-
-
-
-
-
-
