@@ -33,7 +33,7 @@ public class IterationAndRecursion {
 		if(n == 0) 
 			return 0;
 		else 
-			return 5 * recursion(n - 1);
+			return recursion(n - 1) + 5;
 	}
 	
 	public static int iteration(int n) {
